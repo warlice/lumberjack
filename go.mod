@@ -1,3 +1,3 @@
-module github.com/warlice/lumberjack.v2
+module github.com/warlice/lumberjack
 
 go 1.24.10
